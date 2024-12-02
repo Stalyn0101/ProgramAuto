@@ -8,6 +8,9 @@ package ec.edu.espoch.ejercicioauto.Autom;
  *
  * @author USER
  */
-class TipoCombus {
-    
+public enum TipoCombus {
+    GASOLINA,
+    BIOETANOL,
+    DIESEL,
+    GASNATURAL,
 }

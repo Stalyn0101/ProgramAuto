@@ -8,6 +8,10 @@ package ec.edu.espoch.ejercicioauto.Autom;
  *
  * @author USER
  */
-class TipoAuto {
-    
+public enum TipoAuto {
+ CIUDAD,
+ SUBCOMPACTO,
+ FAMILIAR,
+ EJECUTIVO,
+ SUV,
 }
